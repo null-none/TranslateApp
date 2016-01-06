@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobileAppSpec</string>
+    <string name="speech_not_supported">Sorry! Speech input not working</string>
+</resources>
